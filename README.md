@@ -8,3 +8,4 @@ engineering rodents
 - Weekly Progress Report: https://docs.google.com/document/d/1DMTMgP7OYnI_uk4vJp_Fx4GJSTJKxuAkCeTC3eGiPUY/edit?usp=sharing
 - Azure Client Link: https://green-bush-0d8020c10.1.azurestaticapps.net/
 - Azure Server Link: https://capybaraserver.azurewebsites.net/test
+- Project Capybara Wiki: https://github.com/CappyStone/ProjectCapybara/wiki
