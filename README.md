@@ -4,7 +4,8 @@ engineering rodents
 
 # Important Links
 
-- Trello board: https://trello.com/invite/b/2JtiOxGI/f8896eb806e6e15ed59c0e3f6e3cd208/agile-sprint-board
+- Trello board: https://trello.com/invite/b/2JtiOxGI/f8896eb806e6e15ed59c0e3f6e3cd208/agile-sprint-board (not active) 
+- Github project: https://github.com/orgs/CappyStone/projects/3 (active)
 - Weekly Progress Report: https://github.com/CappyStone/ProjectCapybara/wiki/Weekly-Project-Updates
 - Azure Client Link: https://green-bush-0d8020c10.1.azurestaticapps.net/
 - Azure Server Link: https://capybaraserver.azurewebsites.net/test
